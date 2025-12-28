@@ -20,7 +20,7 @@ A clean and modern task management application built with React and Tailwind CSS
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/taskflow-app.git
+git clone https://github.com/amnagithub05/taskflow-app.git
 cd taskflow-app
 npm install
 npm run dev
@@ -31,8 +31,9 @@ npm run dev
 https://amnagithub05.github.io/TaskManagmentApp/
 
 ## Screenshots
+<img width="433" height="418" alt="Screenshot 2025-12-28 194115" src="https://github.com/user-attachments/assets/511f31af-984d-4e49-9eec-f228f7bf1cac" />
 
-*Add screenshots here*
+
 
 ---
 
